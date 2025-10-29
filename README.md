@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dawodu Fehintoluwa 
 
-<!--
-**FehintoluwaDawodu/FehintoluwaDawodu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Experienced in Power BI, SQL & Python | Using data to drive smarter healthcare decisions.
 
-Here are some ideas to get you started:
+# Tools I work with
+- Microsoft Excel
+- Microsoft Power BI
+- SQL
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My projects
+- [NCDC_COVID-19 Dashboard](https://github.com/FehintoluwaDawodu/NCDC_COVID-19-REPORT)
+
+## Currently learning
+- Python for Data Science
+
+
+## Let's connect!
+[LINKEDIN](https://www.linkedin.com/in/fehintoluwa-dawodu-80073a158?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
+
+# FehintoluwaDawodu-portfolio
+Data Analyst with a background in Pharmacy &amp; Epidemiology | Skilled in Excel, Power BI, SQL, and Python | Passionate about data-driven healthcare decisions
+
