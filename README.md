@@ -12,6 +12,8 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 
 ## My projects
 - [NCDC_COVID-19 Dashboard](https://github.com/FehintoluwaDawodu/NCDC_COVID-19-REPORT)
+-
+- [Bacteria Susceptibility](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility)
 
 ## Currently learning
 - Python for Data Science
