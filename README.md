@@ -12,7 +12,7 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 
 ## My projects
 - [NCDC_COVID-19 Dashboard](https://github.com/FehintoluwaDawodu/NCDC_COVID-19-REPORT)
-- [Hospital bed management][https://github.com/FehintoluwaDawodu/Hospital-Beds-Management)
+- [Hospital bed management](https://github.com/FehintoluwaDawodu/Hospital-Beds-Management)
 - [Bacteria Susceptibility](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility)
 - [Hospital admission rate and treatment outcome](https://github.com/FehintoluwaDawodu/Hospital-Admission-Rate-And-Treatment-Outcome-Project)
 
