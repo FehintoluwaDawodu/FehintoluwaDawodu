@@ -15,6 +15,7 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 - [Hospital bed management](https://github.com/FehintoluwaDawodu/Hospital-Beds-Management)
 - [Bacteria Susceptibility](https://github.com/FehintoluwaDawodu/MultiResistance-Antibiotics-Susceptibility)
 - [Hospital admission rate and treatment outcome](https://github.com/FehintoluwaDawodu/Hospital-Admission-Rate-And-Treatment-Outcome-Project)
+- [Mapping Malaria Risk: A Bivariate Analysis of Rainfall and Malaria Prevalence in Nigeria](https://github.com/FehintoluwaDawodu/Mapping-Malaria-Risk-A-Bivariate-Analysis-of-Rainfall-and-Malaria-Prevalence-in-Nigeria)
 
 ## Currently learning
 - Python for Data Science
