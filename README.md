@@ -6,6 +6,8 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 - Microsoft Excel
 - Microsoft Power BI
 - SQL
+- QGIS
+- R
 - Python
 
 ## My projects
@@ -13,6 +15,7 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 
 ## Currently learning
 - Python for Data Science
+- R for health analyst
 
 
 ## Let's connect!
@@ -20,5 +23,5 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 
 
 # FehintoluwaDawodu-portfolio
-Data Analyst with a background in Pharmacy &amp; Epidemiology | Skilled in Excel, Power BI, SQL, and Python | Passionate about data-driven healthcare decisions
+Data Analyst with a background in Pharmacy &amp; Epidemiology | Skilled in Excel, Power BI, SQL, QGIS, R, and Python | Passionate about data-driven healthcare decisions
 
