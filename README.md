@@ -1,6 +1,6 @@
 # Hi, I'm Dawodu Fehintoluwa 
 
-I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Experienced in Power BI, SQL & Python | Using data to drive smarter healthcare decisions.
+I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Experienced in Power BI, SQL, R & Python | Using data to drive smarter healthcare decisions.
 
 # Tools I work with
 - Microsoft Excel
