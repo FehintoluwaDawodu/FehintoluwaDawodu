@@ -11,6 +11,7 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 - Python
 
 ## My projects
+- [Customer Churn Rate](https://github.com/FehintoluwaDawodu/Customer-Churn-Rate)
 - [Vaccination coverage](https://github.com/FehintoluwaDawodu/Vaccination-coverage)
 - [NCDC_COVID-19 Dashboard](https://github.com/FehintoluwaDawodu/NCDC_COVID-19-REPORT)
 - [Hospital bed management](https://github.com/FehintoluwaDawodu/Hospital-Beds-Management)
