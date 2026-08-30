@@ -12,6 +12,7 @@ I'm a Data Analyst in transition from a Pharmacy & Epidemiology background | Exp
 
 ## My projects
 https://github.com/FehintoluwaDawodu/Superstore-Sales-Profitability-Analysis
+- [Healthconnect Initial Data Analysis Document](https://github.com/FehintoluwaDawodu/HealthConnect-Data-Initial-Analysis)
 - [Superstore Executive Analysis](https://github.com/FehintoluwaDawodu/Superstore-Sales-Profitability-Analysis)
 - [Superstore Sales and Profitability Analysis](https://github.com/FehintoluwaDawodu/Superstore-Sales-and-Profitability-Analysis)
 - [Customer Churn Rate](https://github.com/FehintoluwaDawodu/Customer-Churn-Analysis)
